@@ -43,3 +43,10 @@
 - Geekbench5 Score Intel Xeon E2276M
 
 ![image](ScreenShot/geekbench.JPG)
+
+
+### Bios
+
+SMX diy [dsanke](http://www.smxdiy.com/thread-1299-1-1.html)
+
+
