@@ -47,6 +47,6 @@
 
 ### Bios
 
-SMX diy [dsanke](http://www.smxdiy.com/thread-1299-1-1.html)
+SMX DIY Author [dsanke](http://www.smxdiy.com/thread-1299-1-1.html)
 
 
