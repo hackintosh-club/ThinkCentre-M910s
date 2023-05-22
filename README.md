@@ -50,3 +50,10 @@
 SMX DIY Author [dsanke](http://www.smxdiy.com/thread-1299-1-1.html)
 
 
+### Contact Us
+
+ - QQ Group: 23304408
+
+![image](ScreenShot/QRCode.png)
+
+

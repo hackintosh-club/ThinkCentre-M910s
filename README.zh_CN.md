@@ -49,3 +49,9 @@
 ### Bios
 
 魔改BIOS：SMX DIY Author [dsanke](http://www.smxdiy.com/thread-1299-1-1.html)
+
+### 联系我们
+
+ - QQ群: 23304408
+
+![image](ScreenShot/QRCode.png)
