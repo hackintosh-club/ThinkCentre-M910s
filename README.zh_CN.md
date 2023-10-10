@@ -6,7 +6,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.1](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg)
 
 ### 可安装系统
 
@@ -35,7 +35,7 @@
 ### 注意事项
 
  - 使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 生成 SMBIOS
- 
+
  - 务必使用CFGLock.efi 解锁本机CFG Lock后进行安装
 
 ### 系统截图

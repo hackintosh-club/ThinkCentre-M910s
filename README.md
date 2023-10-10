@@ -6,7 +6,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.1](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
@@ -34,9 +34,9 @@
 
 ### Notes
  - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
- 
+
  - U Must Use CFGLock.efi Tool Unlock CFG LOCK first
- 
+
 
 ### ScreenShot 
 
@@ -55,5 +55,4 @@ SMX DIY Author [dsanke](http://www.smxdiy.com/thread-1299-1-1.html)
  - QQ Group: 23304408
 
 ![image](ScreenShot/QRCode.png)
-
 
