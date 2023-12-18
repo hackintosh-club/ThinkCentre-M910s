@@ -120,6 +120,8 @@
                 <true/>
                 <key>EnableWriteUnprotector</key>
                 <true/>
+                <key>FixupAppleEfiImages</key>
+                <false/>
                 <key>ForceBooterSignature</key>
                 <false/>
                 <key>ForceExitBootServices</key>
@@ -227,7 +229,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.8.6</string>
+                    <string>V1.8.8</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -686,13 +688,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02939700J9KGQGA8</string>
+                <string>C020163104NKGQGA8</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>jPgShmNI</data>
+                <data>CSNB5A49</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -700,9 +702,9 @@
                 <key>SystemProductName</key>
                 <string>iMac19,2</string>
                 <key>SystemSerialNumber</key>
-                <string>C02ZG050JWDW</string>
+                <string>C02CL7YKJWDW</string>
                 <key>SystemUUID</key>
-                <string>B9D577AE-9D10-4B56-BE7E-6793EB0D63E3</string>
+                <string>C7D41383-B7A9-436B-BC5D-4691D3A2F7BE</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
